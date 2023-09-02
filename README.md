@@ -6,4 +6,4 @@
   
 - 🤔 I’m looking for help with discord py & telegram py
   
-- 📫 [discord](https://discord.com/invite/jfsPbgPMNt)https://discord.com/invite/jfsPbgPMNt
+- 📫 [Join my Discord Community](https://discord.com/invite/jfsPbgPMNt)
