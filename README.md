@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on iRonny
-  
-- 🌱 I’m currently learning python, cs, js
-  
-- 🤔 I’m looking for help with discord py & telegram py
-  
+- 🌱 I’m currently working on iRonny and MonCloud
+      
 - 📫 [Join my Discord Community](https://discord.com/invite/jfsPbgPMNt)
