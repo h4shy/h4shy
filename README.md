@@ -1,5 +1,7 @@
-### Hi there 👋
+### 👋
 
-- 🌱 I’m currently working on iRonny and MonCloud
+- The Monclub Founder and DOJO's father
+  
+- Currently working on MonCloud
       
 - 📫 [Join my Discord Community](https://discord.com/invite/jfsPbgPMNt)
