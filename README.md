@@ -1,7 +1,5 @@
 ### 👋
 
-- The Monclub Founder and DOJO's father
+- I'm him.
 
-- Currently working on MonCloud
-
-- 📫 [Join my Discord Server](https://discord.com/invite/jfsPbgPMNt)
+- 📫 [Discord Server](https://discord.com/invite/jfsPbgPMNt)
